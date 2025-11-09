@@ -1,10 +1,10 @@
 # Aviyon SQL
 
-**Role**: Truth database (BigQuery + Postgres)
-**Syntax**: SQL + ULE + nimbus.ai
-**Execution**: Distributed, versioned
-**Integration**: Grid, Drive
-**Use Case**: Vagabond inventory truth
+**Role**: Truth database (BigQuery + Postgres)  
+**Syntax**: SQL + ULE + nimbus.ai   
+**Execution**: Distributed, versioned  
+**Integration**: Grid, Drive  
+**Use Case**: Vagabond inventory truth  
 
 
 ``` laviysql
